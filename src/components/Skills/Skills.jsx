@@ -24,7 +24,7 @@ const Skills = () => {
           <span style={{ color: darkMode ? "white" : "" }}>
             My Skills
           </span>
-          <p style={{fontSize:'30px'}}>HTML, CSS, JavaScript, React<br/> SQL, Boostrap, Material UI</p>
+          <p style={{fontSize:'30px'}}>HTML, CSS, JavaScript, React.Js<br/> SQL, Boostrap, Material UI<br/> Redux, Redux Toolkit, Git </p>
           {/* <spane>
             Lorem ispum is simpley dummy text of printing of printing Lorem
             <br />

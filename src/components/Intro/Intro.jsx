@@ -2,7 +2,6 @@ import React, { useContext } from "react";
 import "./Intro.css";
 import Vector1 from "../../img/Vector1.png";
 import Vector2 from "../../img/Vector2.png";
-// import boy from "../../img/boy.png";
 import me from "../../img/me.png";
 import glassesimoji from "../../img/glassesimoji.png";
 import thumbup from "../../img/thumbup.png";
@@ -10,7 +9,6 @@ import crown from "../../img/crown.png";
 import FloatingDiv from "../FloatingDiv/FloatingDiv";
 import Github from "../../img/github.png";
 import LinkedIn from "../../img/linkedin.png";
-// import Instagram from "../../img/instagram.png";
 import { themeContext } from "../../Context";
 import { motion } from "framer-motion";
 import { Link } from "react-scroll";
@@ -44,7 +42,7 @@ const Intro = () => {
         <a href="https://github.com/tarandeep1995" target="_blank" rel="noopener noreferrer">  {/*target and rel property jus open the link in new tab*/}
           <img className="git" src={Github} alt="GitHub" />
         </a>
-        <a href="https://github.com/tarandeep1995" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.linkedin.com/in/tarandeep-sethi-5a541b261/" target="_blank" rel="noopener noreferrer">
           <img className="linkedIn" src={LinkedIn} alt="GitHub" />
         </a>
         </div>
